@@ -4,4 +4,4 @@ This is demo
 
 ## Second heading
 
-Lets see what it does
+Check the new config
